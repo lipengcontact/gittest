@@ -1,4 +1,4 @@
-package com.lipeng.unety.entity;
+package com.lipeng.entity;
 
 public class User {
     private  int id;
